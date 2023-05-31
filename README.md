@@ -1,0 +1,2 @@
+# AngularStructure
+Angular project structure
